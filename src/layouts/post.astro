@@ -9,7 +9,9 @@ const { content } = Astro.props
 <!doctype html>
 <html lang="en">
     <head>
-        <BaseHead title={ content.title ? `${ SITE.title } | ${content.title}` : SITE.title } description={ content.description }/>
+        <BaseHead title={ content.title ? `${ SITE.title } | ${content.title}` : SITE.title }
+                  description={ content.description }
+                  image={ content.image }/>
     </head>
     <MainLayout>
         <div class="post__header">
@@ -22,7 +24,7 @@ const { content } = Astro.props
                 <span class="post__date">{ new Intl.DateTimeFormat('en-US', { dateStyle: 'full' }).format(new Date(content.date))}</span>
             </h5>
         </div>
-        <!--<img src={content.image} alt={content.title} />-->
+        <img src={content.image} alt={content.title} />
         <Prose>
             <slot />
         </Prose>
