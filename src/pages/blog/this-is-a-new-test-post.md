@@ -42,9 +42,19 @@ Link to my [original site](https://www.iamtrapti.com).
 
 ![hello](/images/uploads/hello-2.svg "Apple svg hello ")
 
+- - -
+
 <p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="pordWpZ" data-preview="true" data-user="tripti1410" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/tripti1410/pen/pordWpZ">
   hello animation apple's screen saver</a> by tripti (<a href="https://codepen.io/tripti1410">@tripti1410</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+- - -
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My article got published in CSS tricks 💃😃<a href="https://t.co/66gxwGpuIx">https://t.co/66gxwGpuIx</a><a href="https://twitter.com/css?ref_src=twsrc%5Etfw">@css</a></p>&mdash; Trapti Rahangdale (@imtraptir) <a href="https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
